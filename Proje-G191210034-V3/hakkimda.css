@@ -1,0 +1,69 @@
+#menu {
+    margin: 5px;
+    font-size: 20px;
+}
+#ortala {
+    font: 25pt Tahoma,Verdana;
+    color: #fff;
+    text-align: center;
+}
+.sosyal-icon {
+    width: 50px;
+    line-height: 50px;
+    display: inline-block;
+    text-align:center;
+    font-size: 32px;
+    border-radius: 50%;
+    transition: 700ms;
+    margin:10px;
+    border-style:solid;
+    border-color: #fff;  
+}
+.facebook-icon {
+    background:#3b5998;
+    color:#fff;
+}
+.facebook-icon:hover {
+ 
+    transform: rotate(360deg);
+    color: white;
+    border-color: black;
+}
+.instagram-icon {
+    background: #c32aa3;
+    color:#fff;
+}
+.instagram-icon:hover {    
+    transform: rotate(360deg);
+    color:white;
+    border-color: black; 
+}
+.snapchat-icon {
+    background:#fffc00;
+    color: #fff;
+   
+}
+.snapchat-icon:hover {
+    transform: rotate(360deg);
+    color:#fff;
+    border-color: black;
+}
+.steam-icon {
+    background: #171A21;
+    color: #fff;
+}
+.steam-icon:hover {
+    transform: rotate(360deg);
+    color:#fff;
+    border-color: black;
+}
+.twitter-icon {
+    background:#1da1f2;
+    color: #fff;
+
+}
+.twitter-icon:hover {
+    transform: rotate(360deg);
+    color:#fff;
+    border-color: black;
+}
